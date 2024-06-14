@@ -1,0 +1,55 @@
+h1{
+    color:red;
+    margin-top:20px;
+    margin-bottom: 50px;
+    display: flex;
+    justify-content: center;
+    font-weight: 700;
+    font-size: 50px;
+}
+img{
+    margin-left: 490px;
+    height: 150px;
+    width: 150px;
+    border-radius: 20px;
+}
+.design{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    COLOR:rgb(0, 162, 255);
+    font-size: 30px;
+    font-weight: 600;
+    text-transform: uppercase;
+
+}
+button{
+    margin-left:150px;
+    border:2px balck solid;
+    border-radius: 50px;
+    margin-top: 20px;
+    color:black;
+    font-weight: 400;
+}
+#rock{
+ 
+    background-color: brown;
+}
+#paper{
+    background-color: aliceblue;
+}
+#scissors{
+    background-color: grey;
+  
+}
+#playerwin{
+    color: rgb(39, 65, 87);
+
+
+}
+#computerwin{
+    color: rgb(39, 65, 87);
+}
+#draw{
+    color: rgb(39, 65, 87);
+}
